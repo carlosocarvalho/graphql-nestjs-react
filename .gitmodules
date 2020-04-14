@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:carlosocarvalho/react-nestjs-graphql-backend.git
+[submodule "app"]
+	path = app
+	url = git@github.com:carlosocarvalho/react-nestjs-graphql-frontend.git
